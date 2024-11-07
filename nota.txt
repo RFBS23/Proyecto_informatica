@@ -7,3 +7,6 @@ https://github.com/RFBS23/Proyecto_informatica
 iniciar sesión
 usuario: admin
 password: 12345
+
+-----
+cuando hace una venta copia el numero de venta y en la sección o  boton de boleto pegar el numero de venta y exportar el ticket o boleta de venta :like
