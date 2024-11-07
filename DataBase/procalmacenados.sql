@@ -447,3 +447,7 @@ GO
 
 EXEC spu_reporte_venta '01/08/2024', '07/11/2024';
 go
+
+SELECT COUNT(*) FROM ventas;
+SELECT COUNT(*) FROM usuarios;
+SELECT COUNT(*) FROM productos;

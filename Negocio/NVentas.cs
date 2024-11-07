@@ -43,5 +43,11 @@ namespace Negocio
             }
             return oVenta;
         }
+
+        public int CantidadVentas()
+        {
+            return objcd_venta.CantidadVentas();
+        }
+
     }
 }

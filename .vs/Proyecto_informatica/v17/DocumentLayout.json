@@ -3,35 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|c:\\users\\fabri\\documents\\programacion\\c-sharp\\proyecto_informatica\\presentacion\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|c:\\users\\fabri\\documents\\programacion\\c-sharp\\proyecto_informatica\\presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|c:\\users\\fabri\\documents\\programacion\\c-sharp\\proyecto_informatica\\presentacion\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|presentacion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|c:\\users\\fabri\\documents\\programacion\\c-sharp\\proyecto_informatica\\presentacion\\frmreportesventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\frmreportesventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\frmreportesventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA1E25E5-B824-411D-BAB7-B9A7896CC560}|Datos\\Datos.csproj|C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\datos\\dreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1E25E5-B824-411D-BAB7-B9A7896CC560}|Datos\\Datos.csproj|solutionrelative:datos\\dreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06061DB7-EF27-494F-B255-ACF5EDAB1BF0}|Entidad\\Entidad.csproj|C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\entidad\\reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06061DB7-EF27-494F-B255-ACF5EDAB1BF0}|Entidad\\Entidad.csproj|solutionrelative:entidad\\reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E474FF-0D6E-4BCF-86C2-3B8206AE2E6A}|Negocio\\Negocio.csproj|C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\negocio\\nreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E474FF-0D6E-4BCF-86C2-3B8206AE2E6A}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|c:\\users\\fabri\\documents\\programacion\\c-sharp\\proyecto_informatica\\presentacion\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{ABC79036-F984-404A-8B58-122CF96B5DA7}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,80 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\frmDashboard.cs",
-              "RelativeDocumentMoniker": "presentacion\\frmDashboard.cs",
-              "ToolTip": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\frmDashboard.cs",
-              "RelativeToolTip": "presentacion\\frmDashboard.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAApwHUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T19:09:00.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmDashboard.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\frmDashboard.cs",
-              "RelativeDocumentMoniker": "presentacion\\frmDashboard.cs",
-              "ToolTip": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\frmDashboard.cs [Dise\u00F1o]",
-              "RelativeToolTip": "presentacion\\frmDashboard.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T19:03:59.188Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReporteVentas.cs",
-              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\Entidad\\ReporteVentas.cs",
-              "RelativeDocumentMoniker": "Entidad\\ReporteVentas.cs",
-              "ToolTip": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\Entidad\\ReporteVentas.cs",
-              "RelativeToolTip": "Entidad\\ReporteVentas.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:48:05.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NReportes.cs",
-              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\Negocio\\NReportes.cs",
-              "RelativeDocumentMoniker": "Negocio\\NReportes.cs",
-              "ToolTip": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\Negocio\\NReportes.cs",
-              "RelativeToolTip": "Negocio\\NReportes.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:42:23.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DReportes.cs",
-              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\Datos\\DReportes.cs",
-              "RelativeDocumentMoniker": "Datos\\DReportes.cs",
-              "ToolTip": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\Datos\\DReportes.cs",
-              "RelativeToolTip": "Datos\\DReportes.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAzwC8AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:34:54.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "presentacion",
-              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\presentacion.csproj",
-              "RelativeDocumentMoniker": "presentacion\\presentacion.csproj",
-              "ToolTip": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\presentacion.csproj",
-              "RelativeToolTip": "presentacion\\presentacion.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-07T19:06:20.404Z",
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\App.config",
+              "RelativeDocumentMoniker": "presentacion\\App.config",
+              "ToolTip": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\App.config",
+              "RelativeToolTip": "presentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-07T19:58:26.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "frmReportesVentas.cs",
               "DocumentMoniker": "C:\\Users\\fabri\\Documents\\Programacion\\C-Sharp\\Proyecto_informatica\\presentacion\\frmReportesVentas.cs",
               "RelativeDocumentMoniker": "presentacion\\frmReportesVentas.cs",

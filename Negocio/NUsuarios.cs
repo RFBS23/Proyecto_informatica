@@ -92,5 +92,11 @@ namespace Negocio
         {
             return obj_usuario.Eliminar(obj, out Mensaje);
         }
+
+        public int CantidadUsuarios()
+        {
+            return obj_usuario.CantidadUsuarios();
+        }
+
     }
 }

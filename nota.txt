@@ -1,0 +1,9 @@
+en la capa presentación en el archivo app.config en la cadena de concexion Data Source=RFBS23\SQLEXPRESS
+cambiar RFBS23\SQLEXPRESS por el nombre de usted
+
+el proyeco también esta en GitHub
+https://github.com/RFBS23/Proyecto_informatica
+
+iniciar sesión
+usuario: admin
+password: 12345

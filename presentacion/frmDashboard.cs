@@ -1,4 +1,5 @@
 ﻿using Entidad;
+using Negocio;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -43,6 +44,22 @@ namespace presentacion
             lblhora.Text = "Hora: " + DateTime.Now.ToString("hh:mm:ss tt");
 
             panelFormularios.Dock = DockStyle.Fill;
+            cargarcards();
+        }
+
+        private void cargarcards ()
+        {
+            NUsuarios cantusuarios = new NUsuarios();
+            NProductos cantproductos = new NProductos();
+            NVentas cantventas = new NVentas();
+
+            int cantidadusuarios = cantusuarios.CantidadUsuarios();
+            int cantidadproductos = cantproductos.CantidadProductos();
+            int cantidadventas = cantventas.CantidadVentas();
+
+            lblcantusuarios.Text = cantidadusuarios.ToString();
+            lblcantproductos.Text = cantidadproductos.ToString();
+            lblcantventas.Text = cantidadventas.ToString();
         }
 
         private void btnUsuarios_Click(object sender, EventArgs e)
